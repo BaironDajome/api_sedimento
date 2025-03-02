@@ -97,3 +97,10 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+## Instalaciones importantes
+- Si necesitas ejecutar un servicio que trabaje con Shapefiles en Windows, debes instalar GDAL a través de OSGeo4W y configurar las variables de entorno correctamente. Aquí tienes los pasos detallados:
+- C:\OSGeo4W\bin
+- C:\OSGeo4W\share\gdal
+
+
